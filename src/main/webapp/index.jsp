@@ -7,7 +7,8 @@
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
         <title>JSP Page</title>
     </head>
-    <body>
-        <h1>Hello Roshan Kumawat</h1>
+    <body style="background-color:grey;">
+        <h1>Jenkins Pipeline for java maven project using git,docker,aws</h1>
+         <p>Hello Apache Tomcat Server</p>
     </body>
 </html>
