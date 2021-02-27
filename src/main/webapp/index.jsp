@@ -8,7 +8,7 @@
         <title>JSP Page</title>
     </head>
     <body style="background-color:grey;">
-        <h1>Jenkins Pipeline for java maven project using git,docker,aws</h1>
-         <p>Hello Apache Tomcat Server</p>
+        <h1>Hello Roshan this is poll scm</h1>
+         <p>Devops project</p>
     </body>
 </html>
